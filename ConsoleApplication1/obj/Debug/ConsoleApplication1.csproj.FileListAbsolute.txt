@@ -1,0 +1,8 @@
+J:\Nova pasta (2)\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+J:\Nova pasta (2)\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+J:\Nova pasta (2)\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+J:\Nova pasta (2)\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+J:\Nova pasta (2)\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+J:\Prova Ronan\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+J:\Prova Ronan\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+J:\Prova Ronan\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
