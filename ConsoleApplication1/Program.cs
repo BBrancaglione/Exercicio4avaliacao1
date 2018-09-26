@@ -16,6 +16,9 @@ namespace ConsoleApplication1
                 int quantidade;
                 double valorProduto, valorTotal;
 
+                Console.WriteLine("******Exercício 4 - Avaliação 1*******");
+
+
                 Console.Write("Digite o nome do produto: ");
                 nomeProduto = Console.ReadLine();
 
@@ -31,7 +34,7 @@ namespace ConsoleApplication1
                 Console.WriteLine("**** Venda de Produtos*******");
                 Console.WriteLine("Produto: " + nomeProduto);
                 Console.WriteLine("Qtde: " + quantidade + " x valor Unitário: " + valorProduto.ToString("C"));
-                Console.WriteLine("total a Venda: " + valorTotal.ToString("C"));
+                Console.WriteLine("total da Venda: " + valorTotal.ToString("C"));
                 //.toString()-> converte numero para Texto, o "C" -> formata para moeda.
             }
             catch (Exception)
